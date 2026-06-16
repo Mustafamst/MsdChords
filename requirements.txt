@@ -1,0 +1,11 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+librosa==0.10.1
+soundfile==0.12.1
+python-multipart==0.0.6
+numpy<2.0.0
+torch
+torchaudio
+demucs
+imageio-ffmpeg
+yt-dlp
